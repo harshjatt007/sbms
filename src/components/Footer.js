@@ -44,7 +44,7 @@ export default function Footer() {
           rel="noreferrer"
           className="underline"
         >
-          Thomas Sankara
+          Abhhishek Choudhary
         </a>
       </p>
     </>
