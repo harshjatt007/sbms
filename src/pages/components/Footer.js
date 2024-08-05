@@ -48,7 +48,7 @@ export default function Footer() {
               rel="noreferrer"
               className="underline hover:text-slate-50"
             >
-              Thomas Sankara
+              Abhishek Choudhary
             </a>
           </p>
         </footer>
